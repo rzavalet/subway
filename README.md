@@ -13,7 +13,10 @@ consideraciones.
 Para ejecutar el programa:
 
 $  python subway.py
+
 --> tlahuac ferreria
+
 Follow this route:
+
 ['tlahuac', 'tlaltenco', 'zapotitlan', 'nopalera', 'olivos', 'tezonco', 'periferico_oriente', 'calle_11', 'lomas_estrella', 'san_andres_tomatlan', 'culhuacan', 'atlalilco', 'mexicaltzingo', 'ermita', 'eje_central', 'parque_de_los_venados', 'zapata', 'division_del_norte', 'eugenia', 'etiopia', 'centro_medico', 'chilpancingo', 'patriotismo', 'tacubaya', 'constituyentes', 'auditorio', 'polanco', 'san_joaquin', 'tacuba', 'refineria', 'camarones', 'aquiles_serdan', 'el_rosario', 'tezozomoc', 'azcapotzalco', 'ferreria']
 
